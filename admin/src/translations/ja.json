@@ -1,0 +1,9 @@
+{
+  "export-csv.plugin.name": "CSVエクスポート",
+  "export-csv.button.export": "CSVエクスポート",
+  "export-csv.button.exporting": "エクスポート中...",
+  "export-csv.button.bulk-export": "CSVエクスポート ({count})",
+  "export-csv.notification.export.success.filtered": "フィルタリングされたレコードのCSVエクスポートが正常に完了しました",
+  "export-csv.notification.export.success.selected": "{count}件の選択されたレコードのCSVエクスポートが正常に完了しました",
+  "export-csv.notification.export.error": "エクスポートに失敗しました: {message}"
+}

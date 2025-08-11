@@ -1,0 +1,26 @@
+name: CI
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: '.node-version'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Lint Check
+        run: npm run lint
+
+      - name: Prettier Check
+        run: npx prettier --check .
+
+      - name: Build
+        run: npm run build

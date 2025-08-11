@@ -1,0 +1,9 @@
+{
+  "export-csv.plugin.name": "Export CSV",
+  "export-csv.button.export": "Exporter CSV",
+  "export-csv.button.exporting": "Exportation...",
+  "export-csv.button.bulk-export": "Exporter CSV ({count})",
+  "export-csv.notification.export.success.filtered": "Export CSV des enregistrements filtrés terminé avec succès",
+  "export-csv.notification.export.success.selected": "Export CSV de {count} enregistrements sélectionnés terminé avec succès",
+  "export-csv.notification.export.error": "L'exportation a échoué : {message}"
+}
