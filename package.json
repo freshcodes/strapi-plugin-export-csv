@@ -11,7 +11,7 @@
     "url": "https://github.com/freshcodes/strapi-plugin-export-csv/issues"
   },
   "homepage": "https://github.com/freshcodes/strapi-plugin-export-csv#readme",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "keywords": [
     "strapi",
     "plugin",
