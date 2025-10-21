@@ -154,6 +154,6 @@ module.exports = {
 
 ## License
 
-[ISC License](LICENSE)
+[MIT License](LICENSE)
 
 Made by [Fresh Codes](https://fresh.codes).

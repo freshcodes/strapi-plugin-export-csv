@@ -1,7 +1,7 @@
 {
   "name": "@fresh.codes/strapi-plugin-export-csv",
   "description": "A CSV export plugin for Strapi v5 that adds export functionality to the admin panel with configuration options.",
-  "license": "ISC",
+  "license": "MIT",
   "author": "Fresh Codes <hello@fresh.codes>",
   "repository": {
     "type": "git",
